@@ -11,5 +11,5 @@ The tutorial has two parts:
 
 Go to the Django project's website [here](https://docs.djangoproject.com/en/1.2/intro/tutorial01/#intro-tutorial01) to follow along. 
 
-*To view the notebook statically in the comfort of your own browser click [here](http://nbviewer.ipython.org/urls/raw.github.com/agconti/Django-IPython-Tutorial/master/django_tut-offical.ipynb).*
+*To view the notebook statically in the comfort of your own browser click [here](http://nbviewer.ipython.org/urls/raw.github.com/agconti/Django-IPython-Tutorial/master/django_tut-official.ipynb).*
 
